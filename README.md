@@ -1,4 +1,5 @@
-This project is discontinued and cancelled. You can expect a whole buggy mess when using this framework.
+This project is **discontinued and cancelled.** You can expect a whole buggy mess when using this framework.
+The repository will soon be re updated with all of the source files from the uncompressed gmz.
 
 # Sonic the Hedgehog Pixel Engine
 Hedgehog Pixel Engine is an open source Sonic the Hedgehog-based framework created with GameMaker Studio 1.4, created by jean_tha_n00b and IsraelGames.
